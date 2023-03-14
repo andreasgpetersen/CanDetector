@@ -9,6 +9,8 @@ The video was partitioned into frames that were manually labelled with boxes acc
 This network is then trained and tested on a randomized 80/20 partition of the data set. Sub- sequently the performance of the network is evaluated on a video for its accuracy and real-time performance both on CPU and GPU to conclude on its industrial feasibility.
 
 
+![Architecture]( "Architecture of solution depicted using RCNN")
+
 ## Results
 
 The accuracy and inference time of the different CNN models used for training on the entire dataset. 
