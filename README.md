@@ -10,6 +10,7 @@ This network is then trained and tested on a randomized 80/20 partition of the d
 
 
 Architecture of solution depicted using RCNN:
+
 <img src="https://github.com/andreasgpetersen/CanDetector/blob/main/report/algo.png" alt="Architecture" width="650"/>
 ## Results
 
